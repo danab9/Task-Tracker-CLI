@@ -1,5 +1,6 @@
 
-A simple command-line task manager written in Python using CLick and SQLite.
+A simple command-line task manager written in Python using CLick and SQLite.<br />
+This project is based on the [Task Tracker CLI project](https://roadmap.sh/projects/task-tracker).
 
 ## Installation
 `pip install -e .`
