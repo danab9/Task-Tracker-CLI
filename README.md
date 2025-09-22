@@ -5,7 +5,7 @@ This project is based on the [Task Tracker CLI project](https://roadmap.sh/proje
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/danab9/task-cli.git
+git clone https://github.com/danab9/Task-Tracker-CLI.git
 cd task-cli
 ```
 2. Install the CLI
